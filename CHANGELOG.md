@@ -6,6 +6,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ### Added
 
 ### Changed
+- Changed PHP dependencies to 4.5 and higher
 
 ### Fixed
 
